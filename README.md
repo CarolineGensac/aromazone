@@ -25,7 +25,15 @@ installe playwright :
 npx playwright install
 ```
 
-lances les test :
+## Lancement du projet
+
+Lance le projet : 
+
+```bash
+npm run dev
+```
+
+lance les test :
 
 ```bash
 npx playwright test
