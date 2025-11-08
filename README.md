@@ -16,15 +16,15 @@ Ce projet est un mini e-shop développé avec **Nuxt 4** et **TypeScript**. Il a
 Clone le projet et installe les dépendances :
 
 ```bash
-npm install
+npm install```
 
 installe playwright :
 
 ```bash
-npx playwright install
+npx playwright install```
 
 lances les test :
 
 ```bash
-npx playwright test
+npx playwright test```
 
