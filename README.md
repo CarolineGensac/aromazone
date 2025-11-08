@@ -17,3 +17,12 @@ Clone le projet et installe les dépendances :
 
 ```bash
 npm install
+
+installe playwright :
+```bash
+npx playwright install
+
+lances les test :
+```bash
+npx playwright test
+
